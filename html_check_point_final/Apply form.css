@@ -1,0 +1,29 @@
+form{
+    background-color: slategray;
+    margin-top: 20%;
+    color: black;
+}
+form+label{
+    text-align: center;
+    margin-left: 25%;
+}
+html{
+    background-color: springgreen;
+}
+form select:hover{
+    color: blue;
+    font-style: oblique;
+    font: bold;
+}
+form select{
+    background-color: brown;
+    color: cyan;
+}
+select option:hover{
+    background-color: darkgreen;
+}
+form{
+    display: flex;
+    
+    align-items: center;
+}
